@@ -2,7 +2,7 @@
 
 ## Responses
 
-* * *
+<br>
 
 #### Day 1 (February 8th, 2021): Welcome to SureStart!
 ##### Reflect on what you hope to learn in this program
@@ -11,7 +11,7 @@ As a senior poised to graduate from college, I have enjoyed my AI classes and wa
 
 I'm especially excited for the Makeathon because I want to not only learn but develop real solutions to meaningful problems.
 
-* * *
+<br>
 
 #### Day 2 (February 9th, 2021): Introduction to Machine Learning (ML) AND Scikit-learn
 ##### What is the difference between supervised and unsupervised learning? 
@@ -22,4 +22,4 @@ Supervised learning is trained on labeled examples, with expected outputs, where
 As a ML library, Scikit-learn is concerned with data modeling, not with visualization or display. These other libraries are able to bridge the gap and serve as a visualization interface for models and data.
 
 
-* * *
+<br>
