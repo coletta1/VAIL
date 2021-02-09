@@ -1,4 +1,7 @@
-# SureStart
+# [SureStart](https://mysurestart.com/)
+Repository for my daily assignments and responses
+
+"SureStart’s mission is to build early opportunity pipelines for a highly diverse tech workforce through technical skills training and project-based learning. We are specifically committed to training and mentoring high-school and college students from communities underrepresented in AI, and connecting them to opportunities for hands-on work in innovative DEI-focused tech startups."
 
 ## Responses
 
@@ -25,3 +28,12 @@ As a ML library, Scikit-learn is concerned with data modeling, not with visualiz
 ***
 
 #### Day 3 (February 10th, 2021):
+
+##### What are “Tensors” and what are they used for in Machine Learning? 
+
+##### What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
+
+***
+
+#### Day 4 (February 11th, 2021): WHAT IS DEEP LEARNING?
+
