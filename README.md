@@ -30,9 +30,10 @@ As a ML library, Scikit-learn is concerned with data modeling, not with visualiz
 #### Day 3 (February 10th, 2021):
 
 ##### What are “Tensors” and what are they used for in Machine Learning? 
+Tensors are multidimensional arrays that are generalizations of vecotrs matrixes etc. They are used to store data for ML and can be manipulated with various mathematical operations.
 
 ##### What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial?
-
+I noticed that a lot of the math is hidden behind tensorflow so if you're not careful, you might not actually know what you're doing.
 ***
 
 #### Day 4 (February 11th, 2021): WHAT IS DEEP LEARNING?
