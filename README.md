@@ -38,3 +38,11 @@ I noticed that a lot of the math is hidden behind tensorflow so if you're not ca
 
 #### Day 4 (February 11th, 2021): WHAT IS DEEP LEARNING?
 
+***
+
+#### Day 9 (February 16th, 2021): ALGORITHMIC BIAS AND DATA SETS
+##### How do you think Machine Learning or AI concepts were utilized in the design of this game?
+The game was really interesting because it showed just how innocently bias can appear in ML models. Since they reflect back the patterns they see in data, latent relationships that are actually not important are mimiced and perpretuated. 
+
+##### Can you give a real-world example of a biased machine learning model, and share your ideas on how you make this model more fair, inclusive, and equitable? Please reflect on why you selected this specific biased model.
+I'd say that most models that make judgements on humans are likely to biased. With facial recognition and classification software that has been trained to identify gender of faces, there is potential for bias both racial, as they can be less accurate on darker skinned people, and gender discrimination, especially as it pertains to gender non-conformity. The first problem could be helped with more data, and more a equally distributed training set. This could help with the second as well, but it also brings up the question of if we should even be creating certain models in the first place. It's possible and even likely that for many queer people, these models will never approach fairness because for many people (percieved) gender and appearance are not congruous.
