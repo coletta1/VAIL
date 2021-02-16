@@ -40,6 +40,16 @@ I noticed that a lot of the math is hidden behind tensorflow so if you're not ca
 
 ***
 
+#### Day 5 (February 11th, 2021): WHAT ARE NEURAL NETWORKS (NN)?
+
+***
+### WEEK 2 - CNNS, DATA & MACHINE LEARNING
+***
+
+#### Day 8 (February 11th, 2021): INTRODUCTION TO CONVOLUTIONAL NEURAL NETWORKS (CNNS)
+
+***
+
 #### Day 9 (February 16th, 2021): ALGORITHMIC BIAS AND DATA SETS
 ##### How do you think Machine Learning or AI concepts were utilized in the design of this game?
 The game was really interesting because it showed just how innocently bias can appear in ML models. Since they reflect back the patterns they see in data, latent relationships that are actually not important are mimiced and perpretuated. 
