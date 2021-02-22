@@ -37,7 +37,9 @@ I noticed that a lot of the math is hidden behind tensorflow so if you're not ca
 ***
 
 #### Day 4 (February 11th, 2021): WHAT IS DEEP LEARNING?
+##### Think about a real-world problem and see if you can find a dataset that has the characteristics of the data of that problem. Then, think about the deep learning algorithm that you would likely use to develop a solution to it. Outline why you picked a particular approach.
 
+A real world problem I heard about recently is that oftentimes, in animal shelters, dogs can be grossly mislabeled by breed. This can lead to fewer dogs being adopted due to people becoming frustrated with the process, or getting a dog they aren't expected after putting in the time to select one. Here is a dataset with 20,000 images of dogs of 120 different breeds: https://www.kaggle.com/jessicali9530/stanford-dogs-dataset. I would use a CNN because they tend to be really good for image classification.
 ***
 
 #### Day 5 (February 11th, 2021): WHAT ARE NEURAL NETWORKS (NN)?
