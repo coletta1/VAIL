@@ -62,3 +62,7 @@ I'd say that most models that make judgements on humans are likely to biased. Wi
 #### Day 10 (February 17th, 2021): NEURAL NETWORK LAYERS
 ##### Succinctly list the differences between a Convolutional Neural Network and a Fully Connected Neural Network. Discuss layers and their role, and applications of each of the two types of architecture.
 CNNs are networks that have a series of layers, that essentially filter pixels in various ways and use these convolutions to extract features. For a fully connected neural network, each neuron in a layer is connected with all the other neurons in the adjacent layers, which makes for a whole lot of weights! CNNs are typically used to do work on images and fully connected neural nets have more general-purpose applications.
+
+#### Day 16 (February 23th, 2021): Activation Functions
+##### Write a reflection piece on the advantages of the Rectified Linear activation function, along with one use case.
+One advantage of the ReLU function is the it is less susceptible to the vanishing gradient problem. It also is less computationally expensive than sigmoid and tan h because of it's simplicty, as a function that outputs the input directly if it is positive and outputs 0 otherwise. This is also important because it means it can output true zero values. ReLU is commonly used in CNN's, so for example it could potentially be used for classification of dog species.
