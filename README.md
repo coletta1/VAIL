@@ -66,3 +66,8 @@ CNNs are networks that have a series of layers, that essentially filter pixels i
 #### Day 16 (February 23th, 2021): Activation Functions
 ##### Write a reflection piece on the advantages of the Rectified Linear activation function, along with one use case.
 One advantage of the ReLU function is the it is less susceptible to the vanishing gradient problem. It also is less computationally expensive than sigmoid and tan h because of it's simplicty, as a function that outputs the input directly if it is positive and outputs 0 otherwise. This is also important because it means it can output true zero values. ReLU is commonly used in CNN's, so for example it could potentially be used for classification of dog species.
+
+#### Day 22 (March 1, 2021): Natural Language Processing 
+##### Write a reflection piece on 􏰀the e􏰀thical implica􏰀tions of big NLP models s􏰁uch as GPT-2
+https://openai.com/blog/better-language-models/
+While these models have really interesting implications and applications, there are real concerns that are cause to take pause. First off, by training on human-generated text, there are dangerous patterns that could be replicated. This could be interesting in a research setting but let loose to the general public, people could use it for malicious purposes. Further, with such coherent output, people could be tricked into thinking the text was from a real person. I could see this being a real issue in scams on the internet, especially with email phishing. Looking to the future, with models going in this direction, human writers could be competing for "jobs" with computer programs, which I'm not sure is a bad thing, but it is something to be considered.
